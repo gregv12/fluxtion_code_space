@@ -5,7 +5,10 @@ build and run the repository.
 
 Steps to use:
 
-* fork this repo
 * select open in code space
 
-I need a guinea pig to try this out!!!
+## to stop a code space
+
+https://github.com/codespaces
+
+**I need a guinea pig to try this out!!!**
