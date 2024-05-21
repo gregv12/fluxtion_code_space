@@ -6,6 +6,9 @@ build and run the repository.
 Steps to use:
 
 * select open in code space
+* select java project on left hand menu
+* choose MultiJoinSample.java and open
+* hit the run badge above the public static void main(String[] args) method
 
 ## to stop a code space
 
