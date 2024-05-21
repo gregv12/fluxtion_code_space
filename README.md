@@ -10,6 +10,8 @@ Steps to use:
 * choose MultiJoinSample.java and open
 * hit the run badge above the public static void main(String[] args) method
 
+![](code_space_run.png)
+
 ## to stop a code space
 
 https://github.com/codespaces
