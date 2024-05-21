@@ -10,6 +10,19 @@ import lombok.Value;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+ * An example demonstrating multi leg join with fluxtion dsl
+ * 
+ * The example joins four groupBy data flows for a person, using the String name as a 
+ * key. When a matching join is found individual item are set on MergedData instance.
+ * Dependents are an optional requirement for the join, so is not required to publish 
+ * a MergedData record to the flow.
+ * 
+ * The MergedData instance is added to the GroupBy data flow keyed by name. The multi join 
+ * data flow can be operated on as any normal flow, in this case we are mapping the value with a 
+ * pretty printing function.
+ * 
+ */
 public class MultiJoinSample {
 
     public static void main(String[] args) {
