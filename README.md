@@ -23,7 +23,11 @@ Steps to use:
 
 ![](run_badge.png)
 
-## to stop a code space
+## Execution output
+
+![](run_output.png)
+
+# to stop a code space
 
 https://github.com/codespaces
 
