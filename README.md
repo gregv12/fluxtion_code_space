@@ -19,6 +19,10 @@ Steps to use:
 
   ![](code_space_run.png)
 
+## Hit run badge
+
+![](run_badge.png)
+
 ## to stop a code space
 
 https://github.com/codespaces
